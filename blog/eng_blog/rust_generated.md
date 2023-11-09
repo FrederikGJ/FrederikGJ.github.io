@@ -1,6 +1,6 @@
 # The benefits of Rust
 
-> Essay written by the esteemd author chatGPT
+> Essay written by the esteemed author chatGPT
 
 Programming in Rust offers a multitude of benefits that cater to various aspects of software development, ranging from performance to safety. One of the most significant advantages is its emphasis on memory safety. Rust achieves this through its unique ownership model, which ensures memory safety without a garbage collector. This model enables developers to write high-performance code without the risk of common bugs such as null pointer dereferencing and buffer overflows, which are prevalent in other systems programming languages like C and C++.
 
