@@ -2,7 +2,7 @@
 
 ### Blogposts in english
 
-1. [Essay on Rust](https://frederikgj.github.io/blog/eng_blog/rust_generated.md)
+1. [Essay on Rust](https://frederikgj.github.io/blog/eng_blog/rust_generated)
 2. second
 3. third
 
