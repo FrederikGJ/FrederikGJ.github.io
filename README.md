@@ -7,11 +7,7 @@ Right now, I am working on some web applications for construction engineers.
 #### Languages 
 ![Java](https://img.shields.io/badge/Java-%23FF0000?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-### Personal blog
-[frederikgj.github.io/blog/blog](https://frederikgj.github.io/blog/blog) 
 
 ### Previous work experience
 I have developed in-house applications for the engineering company where I work. Furthermore, I have been involved in projects utilizing the OpenAI API and other open-source LLMs for our internal AI applications. This primarily involved embedding text data and leveraging these LLMs to create specialized Q&A applications.
@@ -20,7 +16,6 @@ I have developed in-house applications for the engineering company where I work.
 
 #### Technologies
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991?style=flat-square)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
