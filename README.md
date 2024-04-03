@@ -10,8 +10,8 @@ Right now, I am working on some web applications for construction engineers.
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### Previous work experience
-I have developed in-house applications for the engineering company where I work. Furthermore, I have been involved in projects utilizing the OpenAI API and other open-source LLMs for our internal AI applications. This primarily involved embedding text data and leveraging these LLMs to create specialized Q&A applications.
-  
+I have developed internal and external tools for the engineering company where I work. Furthermore, I have been involved in data science projects utilizing the OpenAI API and other machine learning techniques for our internal AI applications. This primarily involved building apps with RAG architecture.
+
 ### My skills and tools I use
 
 #### Technologies
