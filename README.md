@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Frederik
+### My name is Frederik
 
 ### What I do
 I work at an engineering company as a software developer. I do mostly backend development. But it does happen that I do some frontend as well 🤓 
@@ -32,9 +32,10 @@ I have developed in-house applications for the engineering company where I work.
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
 #### Favorite text editors and IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![LunarVim](https://img.shields.io/badge/LunarVim-%237F00FF?style=flat-square&logo=vim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![DataSpell](https://img.shields.io/badge/DataSpell-%23000000?style=flat-square&logo=dataspell&logoColor=white)
+
 
 #### Interested in learning
 ![C](https://img.shields.io/badge/C-%23000000?style=flat-square&logo=c&logoColor=white)
