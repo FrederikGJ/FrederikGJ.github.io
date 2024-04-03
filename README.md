@@ -23,7 +23,6 @@ I have developed internal and external tools for the engineering company where I
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Operating systems
